@@ -188,7 +188,7 @@
         </techHediffsTags>
     </ThingDef>
     <!-- RecipeDef (Install) -->
-    <RecipeDef ParentName="SurgeryInstallImplantBase">
+    <RecipeDef ParentName="SurgeryInstallBodyPartArtificialBase">
         <defName>InstallGTEar</defName>
         <label>install advanced bionic ear</label>
         <description>Install an advanced bionic ear.</description>
@@ -286,7 +286,7 @@
         </techHediffsTags>
     </ThingDef>
     <!-- RecipeDef (Install) -->
-    <RecipeDef ParentName="SurgeryInstallImplantBase">
+    <RecipeDef ParentName="SurgeryInstallBodyPartArtificialBase">
         <defName>InstallGTEye</defName>
         <label>install advanced bionic eye</label>
         <description>Install an advanced bionic eye.</description>
@@ -382,7 +382,7 @@
         </techHediffsTags>
     </ThingDef>
     <!-- RecipeDef (Install) -->
-    <RecipeDef ParentName="SurgeryInstallImplantBase">
+    <RecipeDef ParentName="SurgeryInstallBodyPartArtificialBase">
         <defName>InstallGTArm</defName>
         <label>install advanced bionic arm</label>
         <description>Install an advanced bionic arm.</description>
@@ -459,7 +459,7 @@
         </techHediffsTags>
     </ThingDef>
     <!-- RecipeDef (Install) -->
-    <RecipeDef ParentName="SurgeryInstallImplantBase">
+    <RecipeDef ParentName="SurgeryInstallBodyPartArtificialBase">
         <defName>InstallGTLeg</defName>
         <label>install advanced bionic leg</label>
         <description>Install an advanced bionic leg.</description>
@@ -540,7 +540,7 @@
         </techHediffsTags>
     </ThingDef>
     <!-- RecipeDef (Install) -->
-    <RecipeDef ParentName="SurgeryInstallImplantBase">
+    <RecipeDef ParentName="SurgeryInstallBodyPartArtificialBase">
         <defName>InstallGTSpine</defName>
         <label>install advanced bionic spine</label>
         <description>Install an advanced bionic spine.</description>
@@ -618,7 +618,7 @@
         </techHediffsTags>
     </ThingDef>
     <!-- RecipeDef (Install) -->
-    <RecipeDef ParentName="SurgeryInstallImplantBase">
+    <RecipeDef ParentName="SurgeryInstallBodyPartArtificialBase">
         <defName>InstallGTHeart</defName>
         <label>install advanced bionic heart</label>
         <description>Install an advanced bionic heart.</description>
@@ -696,7 +696,7 @@
         </techHediffsTags>
     </ThingDef>
     <!-- RecipeDef (Install) -->
-    <RecipeDef ParentName="SurgeryInstallImplantBase">
+    <RecipeDef ParentName="SurgeryInstallBodyPartArtificialBase">
         <defName>InstallGTLung</defName>
         <label>install advanced bionic lung</label>
         <description>Install an advanced bionic lung.</description>
@@ -772,7 +772,7 @@
         </techHediffsTags>
     </ThingDef>
     <!-- RecipeDef (Install) -->
-    <RecipeDef ParentName="SurgeryInstallImplantBase">
+    <RecipeDef ParentName="SurgeryInstallBodyPartArtificialBase">
         <defName>InstallGTKidney</defName>
         <label>install advanced bionic kidney</label>
         <description>Install an advanced bionic kidney.</description>
@@ -848,7 +848,7 @@
         </techHediffsTags>
     </ThingDef>
     <!-- RecipeDef (Install) -->
-    <RecipeDef ParentName="SurgeryInstallImplantBase">
+    <RecipeDef ParentName="SurgeryInstallBodyPartArtificialBase">
         <defName>InstallGTLiver</defName>
         <label>install advanced bionic liver</label>
         <description>Install an advanced bionic liver.</description>
@@ -929,7 +929,7 @@
         </techHediffsTags>
     </ThingDef>
     <!-- RecipeDef (Install) -->
-    <RecipeDef ParentName="SurgeryInstallImplantBase">
+    <RecipeDef ParentName="SurgeryInstallBodyPartArtificialBase">
         <defName>InstallGTStomach</defName>
         <label>install advanced bionic stomach</label>
         <description>Install an advanced bionic stomach.</description>
@@ -1006,7 +1006,7 @@
         </techHediffsTags>
     </ThingDef>
     <!-- RecipeDef (Install) -->
-    <RecipeDef ParentName="SurgeryInstallImplantBase">
+    <RecipeDef ParentName="SurgeryInstallBodyPartArtificialBase">
         <defName>InstallGTHand</defName>
         <label>install advanced bionic hand</label>
         <description>Install an advanced bionic hand.</description>
@@ -1083,7 +1083,7 @@
         </techHediffsTags>
     </ThingDef>
     <!-- RecipeDef (Install) -->
-    <RecipeDef ParentName="SurgeryInstallImplantBase">
+    <RecipeDef ParentName="SurgeryInstallBodyPartArtificialBase">
         <defName>InstallGTFoot</defName>
         <label>install advanced bionic foot</label>
         <description>Install an advanced bionic foot.</description>
@@ -1158,7 +1158,7 @@
         </techHediffsTags>
     </ThingDef>
     <!-- RecipeDef (Install) -->
-    <RecipeDef ParentName="SurgeryInstallImplantBase">
+    <RecipeDef ParentName="SurgeryInstallBodyPartArtificialBase">
         <defName>InstallGTDentures</defName>
         <label>install advanced bionic dentures</label>
         <description>Install an advanced set of bionic dentures.</description>
