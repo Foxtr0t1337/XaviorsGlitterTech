@@ -161,7 +161,7 @@
         </addedPartProps>
     </HediffDef>
     <!-- ThingDef -->
-    <ThingDef ParentName="BodyPartBionicImperialBase">
+    <ThingDef ParentName="BodyPartBionicBase">
         <defName>GTEar</defName>
         <label>Advanced bionic ear</label>
         <description>The advanced version of the bionic ear. The second generation of bionic upgrades, typically reserved for top brass military forces.</description>
@@ -263,7 +263,7 @@
         </renderNodeProperties>
     </HediffDef>
     <!-- ThingDef -->
-    <ThingDef ParentName="BodyPartBionicImperialBase">
+    <ThingDef ParentName="BodyPartBionicBase">
         <defName>GTEye</defName>
         <label>Advanced bionic eye</label>
         <description>The advanced version of the bionic eye. The second generation of bionic upgrades, typically reserved for top brass military forces, increasing their shooting accuracy and time it takes to aim.</description>
@@ -359,7 +359,7 @@
         </addedPartProps>
     </HediffDef>
     <!-- ThingDef -->
-    <ThingDef ParentName="BodyPartBionicImperialBase">
+    <ThingDef ParentName="BodyPartBionicBase">
         <defName>GTArm</defName>
         <label>Advanced bionic arm</label>
         <description>The second generation of bionic upgrades, using nano fibres to produce artificial muscles. Gives the owner incredible strength. You may destroy your opponents' limbs in a fist fight...not recommended for wardens.</description>
@@ -436,7 +436,7 @@
         </addedPartProps>
     </HediffDef>
     <!-- ThingDef -->
-    <ThingDef ParentName="BodyPartBionicImperialBase">
+    <ThingDef ParentName="BodyPartBionicBase">
         <defName>GTLeg</defName>
         <label>Advanced bionic leg</label>
         <description>The second generation of bionic upgrades, using nano fibres to produce artificial muscles. Enhances speed, strength, and stability. You can run faster, jump higher, and kick harder.</description>
@@ -517,7 +517,7 @@
         </addedPartProps>
     </HediffDef>
     <!-- ThingDef -->
-    <ThingDef ParentName="BodyPartBionicImperialBase">
+    <ThingDef ParentName="BodyPartBionicBase">
         <defName>GTSpine</defName>
         <label>Advanced bionic spine</label>
         <description>The second generation of bionic upgrades. A flexible spine replacement that enhances movement capabilities and provides improved stability.</description>
@@ -595,7 +595,7 @@
         </addedPartProps>
     </HediffDef>
     <!-- ThingDef -->
-    <ThingDef ParentName="BodyPartBionicImperialBase">
+    <ThingDef ParentName="BodyPartBionicBase">
         <defName>GTHeart</defName>
         <label>Advanced bionic heart</label>
         <description>The second generation of bionic upgrades. A high-performance heart replacement that significantly improves blood circulation and stamina.</description>
@@ -673,7 +673,7 @@
         </addedPartProps>
     </HediffDef>
     <!-- ThingDef -->
-    <ThingDef ParentName="BodyPartBionicImperialBase">
+    <ThingDef ParentName="BodyPartBionicBase">
         <defName>GTLung</defName>
         <label>Advanced bionic lung</label>
         <description>The second generation of bionic upgrades. An efficient lung replacement that improves oxygen filtration and absorption while increasing overall stamina.</description>
@@ -749,7 +749,7 @@
         </addedPartProps>
     </HediffDef>
     <!-- ThingDef -->
-    <ThingDef ParentName="BodyPartBionicImperialBase">
+    <ThingDef ParentName="BodyPartBionicBase">
         <defName>GTKidney</defName>
         <label>Advanced bionic kidney</label>
         <description>The second generation of bionic upgrades. A highly efficient kidney replacement that significantly improves filtration and overall health.</description>
@@ -825,7 +825,7 @@
         </addedPartProps>
     </HediffDef>
     <!-- ThingDef -->
-    <ThingDef ParentName="BodyPartBionicImperialBase">
+    <ThingDef ParentName="BodyPartBionicBase">
         <defName>GTLiver</defName>
         <label>Advanced bionic liver</label>
         <description>The second generation of bionic upgrades. A high-performance liver replacement that significantly improves detoxification and overall health.</description>
@@ -906,7 +906,7 @@
         </comps>
     </HediffDef>
     <!-- ThingDef -->
-    <ThingDef ParentName="BodyPartBionicImperialBase">
+    <ThingDef ParentName="BodyPartBionicBase">
         <defName>GTStomach</defName>
         <label>Advanced bionic stomach</label>
         <description>The second generation of bionic upgrades. A high-performance stomach replacement that significantly improves digestion and overall health.</description>
@@ -983,7 +983,7 @@
         </addedPartProps>
     </HediffDef>
     <!-- ThingDef -->
-    <ThingDef ParentName="BodyPartBionicImperialBase">
+    <ThingDef ParentName="BodyPartBionicBase">
         <defName>GTHand</defName>
         <label>Advanced bionic hand</label>
         <description>The second generation of bionic upgrades, using nano fibres to produce artificial muscles. Gives the owner incredible dexterity and strength.</description>
@@ -1060,7 +1060,7 @@
         </addedPartProps>
     </HediffDef>
     <!-- ThingDef -->
-    <ThingDef ParentName="BodyPartBionicImperialBase">
+    <ThingDef ParentName="BodyPartBionicBase">
         <defName>GTFoot</defName>
         <label>Advanced bionic foot</label>
         <description>The second generation of bionic upgrades, using nano fibres to produce artificial muscles. Gives the owner incredible balance and strength.</description>
@@ -1135,7 +1135,7 @@
         </addedPartProps>
     </HediffDef>
     <!-- ThingDef -->
-    <ThingDef ParentName="BodyPartBionicImperialBase">
+    <ThingDef ParentName="BodyPartBionicBase">
         <defName>GTDentures</defName>
         <label>Advanced bionic dentures</label>
         <description>The second generation of bionic upgrades. A set of advanced dentures that significantly improve chewing and overall oral health.</description>
