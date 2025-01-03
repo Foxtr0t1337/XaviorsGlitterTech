@@ -2,7 +2,7 @@
 <Defs>
     <!-- Added body parts -->
     <!-- Orion Corp Exoskeleton -->
-    <HediffDef ParentName="AddedBodyPartBase">
+    <HediffDef ParentName="ImplantHediffBase">
         <defName>OCExo</defName>
         <label>Orion Exoskeleton</label>
         <labelNoun>an Orion Exoskeleton</labelNoun>
@@ -13,8 +13,6 @@
         <spawnThingOnRemoved>OCExo</spawnThingOnRemoved>
         <addedPartProps>
             <solid>true</solid>
-            <partEfficiency>1.0</partEfficiency>
-            <betterThanNatural>true</betterThanNatural>
         </addedPartProps>
         <stages>
             <li>
@@ -92,7 +90,7 @@
         </techHediffsTags>
     </ThingDef>
 
-    <RecipeDef ParentName="SurgeryInstallBodyPartArtificialBase">
+    <RecipeDef ParentName="SurgeryInstallImplantBase">
         <defName>InstallOCExo</defName>
         <label>Install Orion Exoskeleton</label>
         <description>Installs Orion Exoskeleton.</description>
@@ -128,7 +126,7 @@
             </thingDefs>
         </fixedIngredientFilter>
         <appliedOnFixedBodyParts>
-            <li>Spine</li>
+            <li>Torso</li>
         </appliedOnFixedBodyParts>
         <addsHediff>OCExo</addsHediff>
     </RecipeDef>
